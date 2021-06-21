@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Borealin's GitHub stats](https://github-readme-stats.vercel.app/api?username=borealin)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
