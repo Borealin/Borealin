@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Rendering Optimization**
+- 🌱 I’m currently learning **AI Music Creation App**
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **borealin@zju.edu.cn**
+- 📫 How to reach me **me@borealin.cn**
 
 
 <h3 align="left">Languages and Tools:</h3>
